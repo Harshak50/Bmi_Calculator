@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img1.png" width="250" title="BMI">
+  <img src="img-1.png" width="250" title="BMI">
 
 </p>
-# Bmi_Calculator
+
